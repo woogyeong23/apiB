@@ -10,7 +10,7 @@
 </head>
 <body>
 
-	<h1>메인 페이지 입니다.</h1>
+	<h1>메인 페이지 입니다. git test</h1>
 	
 	<!-- <a href="./memberList.jsp">회원 리스트</a> --><!-- 물리적 경로 -->
 	<a href="<%=request.getContextPath() %>/member/memberList.do">회원 리스트</a><!-- 가상 경로 -->
