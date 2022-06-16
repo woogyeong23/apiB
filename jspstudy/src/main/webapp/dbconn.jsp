@@ -21,6 +21,6 @@ Class.forName("oracle.jdbc.driver.OracleDriver");	//클래스의 클래스
 //연결정보를 통해서 연결객체를 참조변수 conn에 담는다
 Connection conn = DriverManager.getConnection(url, user, password);	//오라클의 주소,아이디,비밀번호
 
-
+//test test
 
 %>
